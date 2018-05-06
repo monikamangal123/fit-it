@@ -1,0 +1,12 @@
+.display {
+  display:flex;
+  justify-content: center;
+}
+
+.form-fields {
+  flex-direction: column;
+}
+
+.form-fields > div {
+  padding: 5% 0;
+}
